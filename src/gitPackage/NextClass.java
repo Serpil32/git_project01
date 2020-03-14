@@ -2,10 +2,8 @@ package gitPackage;
 
 public class NextClass {
 	
+	
 	public static void main(String[] args) {
-	
-	System.out.println("Hello Dear Friends");
-	
-	
+		System.out.println("Hello Dear Testers");
 	}
 }
